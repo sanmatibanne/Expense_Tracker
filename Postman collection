@@ -1,0 +1,13 @@
+Category Contoller
+Post mapping----->http://localhost:8080/api/category/addcategory
+Get mapping------>http://localhost:8080/api/category/{id}
+Get mapping------>http://localhost:8080/api/category
+Put mapping------>http://localhost:8080/api/category/update/{id}
+Delete mapping--->http://localhost:8080/api/category/{id}
+
+Expense Controller
+Post mapping----->http://localhost:8080/api/expense
+Get mapping------>http://localhost:8080/api/expense/{expenseId}
+Get mapping------>http://localhost:8080/api/expense
+Put mapping------>http://localhost:8080/api/expense
+Delete mapping--->http://localhost:8080/api/expense/{expenseId}
