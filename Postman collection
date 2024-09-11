@@ -1,3 +1,5 @@
+http://localhost:8080/swagger-ui/index.html
+
 Category Contoller
 Post mapping----->http://localhost:8080/api/category/addcategory
 Get mapping------>http://localhost:8080/api/category/{id}
